@@ -1,7 +1,20 @@
----
-title: "mysite"
+ title: "2025303120088 个人网站"
+  left:
+    - text: 首页
+      href: index.qmd
+    - text: 关于我
+      href: about.qmd
 ---
 
-This is a Quarto website.
+## 作业基本信息
+- 学号：2025303120088
+- 姓名：（你可以填自己的姓名）
+- 课程：Quarto 网站制作作业
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+## 网站说明
+这是通过 Quarto 工具创建的个人静态网站，包含首页和关于页两个核心页面，已成功部署到 GitHub Pages。
+
+## 学习收获
+1. 掌握 Quarto 项目创建和预览方法
+2. 学会将本地代码推送到 GitHub 仓库
+3. 配置 GitHub Pages 发布公开可访问的网站

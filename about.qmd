@@ -1,5 +1,21 @@
 ---
-title: "About"
+title: "关于我"
+format: html
+navbar:
+  title: "2025303120088 个人网站"
+  left:
+    - text: 首页
+      href: index.qmd
+    - text: 关于我
+      href: about.qmd
 ---
 
-About this site
+## 个人简介
+- 专业/年级：（可选填，比如“计算机专业 2025级”）
+- 学习方向：数据分析/编程学习
+- 联系方式：（可选填，比如GitHub账号 Mengyuxin224）
+
+## 技术说明
+- 开发工具：Quarto + Positron
+- 部署平台：GitHub Pages
+- 网站地址：https://mengyuxin224.github.io/mysite/
